@@ -1,2 +1,2 @@
 # ProjectSatori
-My lifelong brain-computer interfacing project. I should post something practical (may be or not code) here before 2028.
+Long term repo for neural engineering things. Plan to make something useful here before 2028. 
